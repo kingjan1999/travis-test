@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "node"
+
+notifications:
+  webhooks:
+    - https://b37f47a4.ngrok.io/v1/integration/5c965507d730340e9f4b2671/hook
