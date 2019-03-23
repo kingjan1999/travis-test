@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "echo tested!"
+    "test": "echo failed!; exit 1"
   }
 }
