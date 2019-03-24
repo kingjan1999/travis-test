@@ -4,4 +4,4 @@ node_js:
 
 notifications:
   webhooks:
-    - https://glo-ci.backend.g.kluster.app/v1/integration/5c978e2df585b600318932f6/hook	
+    - https://glo-ci.backend.g.kluster.app/v1/integration/5c9794d4d46ee6002e502168/hook
