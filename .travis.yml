@@ -4,4 +4,4 @@ node_js:
 
 notifications:
   webhooks:
-    - https://bd50f435.ngrok.io/v1/integration/5ca7865e2df3f64a08f8090a/hook
+    - https://bd50f435.ngrok.io/v1/integration/5ca79b628d45d7145fad1cb3/hook
